@@ -6,7 +6,6 @@
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-:devil:
 :imp:
 # Hello GitHub Actions
 
