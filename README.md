@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 :devil:
+:imp:
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
